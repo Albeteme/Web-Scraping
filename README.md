@@ -5,6 +5,4 @@ In this project, we will build a web application that scrapes various websites f
 
 _ In the process, we used MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs.
 - We started by converting the Jupyter notebook into a Python script called `scrape_mars.py` with a function called `scrape` that will execute all of your scraping code from above and return one Python dictionary containing all of the scraped data.
-![image](https://user-images.githubusercontent.com/75787486/122659970-2d700300-d14b-11eb-9c27-620d9afc60d9.png)
-![image](https://user-images.githubusercontent.com/75787486/122659972-32cd4d80-d14b-11eb-9a33-8ade1321d54e.png)
 
